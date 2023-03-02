@@ -1,0 +1,85 @@
+品牌名称来源
+https://mapi.vip.com/vips-mobile/rest/shopping/pc/search/brand_store/get/v3
+请求方法: GET
+载荷
+
+app_name: shop_pc
+app_version: 4.0
+warehouse: VIP_NH
+fdc_area_id: 104104101          # 地区id
+client: pc
+mobile_platform: 1
+province_id: 104104             # 固定值
+api_key: 70f71280d5d547b2a7bb370a529aeea1   # 固定值
+user_id:
+mars_cid: 1661336231976_1133379bd9166e119a227ea6ea1a0cec    # 需要破解
+wap_consumer: a
+keyword: 口红
+_: 1677497846625        # 时间戳
+
+
+mars_cid = Mar.Util.encryptCid(Mar.Util.pad((new Date).getTime(), 13) + "_" + Mar.Random.rand()
+
+
+商品id来源
+https://mapi.vip.com/vips-mobile/rest/shopping/pc/search/product/rank
+请求方法: GET
+载荷
+app_name: shop_pc
+app_version: 4.0
+warehouse: VIP_NH
+fdc_area_id: 104104101
+client: pc
+mobile_platform: 1
+province_id: 104104
+api_key: 70f71280d5d547b2a7bb370a529aeea1
+user_id:
+mars_cid: 1677571899076_13127f55331b83ca20fd108a2763557f
+wap_consumer: a
+standby_id: nature
+keyword: 女式大衣
+lv3CatIds:
+lv2CatIds:
+lv1CatIds:
+brandStoreSns:
+props:
+priceMin:
+priceMax:
+vipService:
+sort: 0
+pageOffset: 0       # 数据从第几条开始
+channelId: 1
+gPlatform: PC
+batchSize: 120
+_: 1677575392329
+
+
+
+
+
+数据来源
+https://mapi.vip.com/vips-mobile/rest/shopping/pc/product/module/list/v2
+请求方法: GET
+载荷
+
+app_name: shop_pc
+app_version: 4.0
+warehouse: VIP_NH
+fdc_area_id: 104104101
+client: pc
+mobile_platform: 1
+province_id: 104104
+api_key: 70f71280d5d547b2a7bb370a529aeea1
+user_id:
+mars_cid: 1677571899076_13127f55331b83ca20fd108a2763557f
+wap_consumer: a
+productIds: 6919589663736793051,6919589663820756955,6920041670082622804,6920036553754303056,6920029087158372754,6920029087107819922,6920076704151127120,6920076970682301012,6920082300297349255,6919240677604513352,6920232022733426971,6919554631742084742,6920060974188542612,6920179937229469196,6919510132504191191,6920030520795757641,6920168044820796420,6920232022733562139,6920007156093352784,6920017524352062530,6919260883328758342,6920025817231260567,6919604466277895105,6920139254069541788,6920054839480706446,6918966361036273353,6919580851085272148,6920060974188485268,6920066854106844048,6919544919039598808,6920139227839449052,6920028905149814292,6920038876981690448,6919604158231188874,6920102863799952664,6920082300297357447,6919045974795574016,6919965375749206231,6920060974171658900,6920179937246721548,6920027440842068432,6919989874825942422,6920139254069336988,6919721696666135112,6919076375754359369,6920147737009945540,6918953060047477257,6919715808790476493,6919976815768633489,6920055137185224521,
+scene: search
+standby_id: nature
+extParams: {"stdSizeVids":"","preheatTipsVer":"3","couponVer":"v2","exclusivePrice":"1","iconSpec":"2x","ic2label":1,"superHot":1,"bigBrand":"1"}
+context:
+_: 1677575392331
+
+
+productIds : 商品id ,数据根据id返回
+extParams ：固定值
