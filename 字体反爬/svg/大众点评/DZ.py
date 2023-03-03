@@ -1,6 +1,3 @@
-# @Time : 2022/10/08 14:58
-# @Author : NDY
-# @File : DZ.py
 import time
 import random
 import requests
