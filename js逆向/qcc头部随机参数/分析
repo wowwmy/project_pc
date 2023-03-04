@@ -1,0 +1,16 @@
+请求头有一个随机生成的key,value参数
+e02fae00ec2d6eb95485: 003c0fe624e262802a0f0facc6672ea8dc4ef42ba2431967add6cb5cfd2719ae13f34d9fea3e4d4d7a998d5559878b0c79290831a1ca7f49d62f7d6689058de7
+
+两者都是采取了hmacsha512进行加密
+// 加密函数
+var i = (0,a.default)(t, e.data),
+l = (0,r.default)(t, e.data, (0,s.default)());
+e.headers[i] = l
+//
+t = '/api/search/searchmind?mindkeywords=true&mindtype=9&pagesize=5&person=true&searchkey=%e4%ba%94%e8%88%9f&suggest=true'
+t ===> url + 参数
+
+e.data  ===> undefined
+
+//
+(0,s.default)() ==> 某请求返回的固定值，每一次刷新也会随着刷新
