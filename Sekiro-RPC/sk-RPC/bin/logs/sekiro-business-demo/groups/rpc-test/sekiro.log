@@ -1,0 +1,4 @@
+[2022-07-09 13:41:56,609 [sekiro-worker-3-34]  INFO Sekiro:?]  [sekiroGroup:rpc-test][clientId:2cced932-160d-d9ff-7f84-be8d91641ec9] client register
+[2022-07-09 13:42:18,211 [group-thread-rpc-test]  INFO Sekiro:?]  [sekiroGroup:rpc-test][clientId:2cced932-160d-d9ff-7f84-be8d91641ec9] client disconnect
+[2022-07-09 13:47:02,065 [group-thread-rpc-test]  WARN Sekiro:?]  [sekiroGroup:rpc-test][clientId:group:rpc-test:system-fake] pool queue empty
+[2022-07-09 13:56:00,075 [group-thread-rpc-test]  WARN Sekiro:?]  [sekiroGroup:rpc-test][clientId:group:rpc-test:system-fake] pool queue empty

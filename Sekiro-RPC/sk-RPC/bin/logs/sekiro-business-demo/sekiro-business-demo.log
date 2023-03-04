@@ -1,0 +1,2 @@
+[2022-09-18 09:04:42,275 [main]  INFO com.virjar.sekiro.business.netty.Bootstrap:61]  start sekiro netty server,port:5620
+[2022-09-18 09:04:42,691 [sekiro-boss-1-1]  INFO com.virjar.sekiro.business.netty.Bootstrap:64]  sekiro netty server start success

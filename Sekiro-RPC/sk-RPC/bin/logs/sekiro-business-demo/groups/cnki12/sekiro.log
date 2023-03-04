@@ -1,0 +1,6 @@
+[2022-04-27 13:29:04,159 [sekiro-worker-3-1]  INFO Sekiro:?]  [sekiroGroup:cnki12][clientId:fd5fb73e-8c23-7c4a-d33f-650f57e65281] client register
+[2022-04-27 13:29:04,565 [group-thread-cnki12]  INFO Sekiro:?]  [sekiroGroup:cnki12][clientId:fd5fb73e-8c23-7c4a-d33f-650f57e65281] forward invoke :{"action":"get_code","group":"cnki12"} to client:fd5fb73e-8c23-7c4a-d33f-650f57e65281
+[2022-04-27 13:29:04,568 [sekiro-worker-3-1]  INFO Sekiro:?]  [sekiroGroup:cnki12][clientId:fd5fb73e-8c23-7c4a-d33f-650f57e65281][action:get_code] forward invoke seq:2 request:{"action":"get_code","group":"cnki12"}
+[2022-04-27 13:30:17,327 [group-thread-cnki12]  INFO Sekiro:?]  [sekiroGroup:cnki12][clientId:fd5fb73e-8c23-7c4a-d33f-650f57e65281] forward invoke :{"action":"get_code","group":"cnki12"} to client:fd5fb73e-8c23-7c4a-d33f-650f57e65281
+[2022-04-27 13:30:17,327 [sekiro-worker-3-1]  INFO Sekiro:?]  [sekiroGroup:cnki12][clientId:fd5fb73e-8c23-7c4a-d33f-650f57e65281][action:get_code] forward invoke seq:3 request:{"action":"get_code","group":"cnki12"}
+[2022-04-27 13:44:51,897 [group-thread-cnki12]  INFO Sekiro:?]  [sekiroGroup:cnki12][clientId:fd5fb73e-8c23-7c4a-d33f-650f57e65281] client disconnect

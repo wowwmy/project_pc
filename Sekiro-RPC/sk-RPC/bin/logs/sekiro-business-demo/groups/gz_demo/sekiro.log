@@ -1,0 +1,38 @@
+[2022-07-12 16:30:24,571 [sekiro-worker-3-2]  INFO Sekiro:?]  [sekiroGroup:gz_demo][clientId:786e9f1b-875e-c286-62a5-c31b3484559a] client register
+[2022-07-12 16:30:24,571 [sekiro-worker-3-1]  INFO Sekiro:?]  [sekiroGroup:gz_demo][clientId:d30ad3d1-3eda-54ad-c2d9-a5bf17f4f96c] client register
+[2022-07-12 16:30:24,581 [sekiro-worker-3-3]  INFO Sekiro:?]  [sekiroGroup:gz_demo][clientId:7b2be190-c84b-b39e-924f-762ebc95b143] client register
+[2022-07-12 16:30:24,593 [sekiro-worker-3-4]  INFO Sekiro:?]  [sekiroGroup:gz_demo][clientId:f28e82bd-d77c-a9bc-f5cd-2e102791185e] client register
+[2022-07-12 16:30:51,536 [group-thread-gz_demo]  INFO Sekiro:?]  [sekiroGroup:gz_demo][clientId:f28e82bd-d77c-a9bc-f5cd-2e102791185e] forward invoke :{"action":"get_tt","group":"gz_demo"} to client:f28e82bd-d77c-a9bc-f5cd-2e102791185e
+[2022-07-12 16:30:51,539 [sekiro-worker-3-4]  INFO Sekiro:?]  [sekiroGroup:gz_demo][clientId:f28e82bd-d77c-a9bc-f5cd-2e102791185e][action:get_tt] forward invoke seq:2 request:{"action":"get_tt","group":"gz_demo"}
+[2022-07-12 16:32:51,631 [group-thread-gz_demo]  INFO Sekiro:?]  [sekiroGroup:gz_demo][clientId:7b2be190-c84b-b39e-924f-762ebc95b143] forward invoke :{"action":"get_tt","group":"gz_demo"} to client:7b2be190-c84b-b39e-924f-762ebc95b143
+[2022-07-12 16:32:51,631 [sekiro-worker-3-3]  INFO Sekiro:?]  [sekiroGroup:gz_demo][clientId:7b2be190-c84b-b39e-924f-762ebc95b143][action:get_tt] forward invoke seq:2 request:{"action":"get_tt","group":"gz_demo"}
+[2022-07-12 16:32:58,316 [group-thread-gz_demo]  INFO Sekiro:?]  [sekiroGroup:gz_demo][clientId:786e9f1b-875e-c286-62a5-c31b3484559a] forward invoke :{"action":"get_tt","group":"gz_demo"} to client:786e9f1b-875e-c286-62a5-c31b3484559a
+[2022-07-12 16:32:58,317 [sekiro-worker-3-2]  INFO Sekiro:?]  [sekiroGroup:gz_demo][clientId:786e9f1b-875e-c286-62a5-c31b3484559a][action:get_tt] forward invoke seq:2 request:{"action":"get_tt","group":"gz_demo"}
+[2022-07-12 16:33:15,057 [group-thread-gz_demo]  INFO Sekiro:?]  [sekiroGroup:gz_demo][clientId:d30ad3d1-3eda-54ad-c2d9-a5bf17f4f96c] forward invoke :{"action":"get_tt","group":"gz_demo"} to client:d30ad3d1-3eda-54ad-c2d9-a5bf17f4f96c
+[2022-07-12 16:33:15,058 [sekiro-worker-3-1]  INFO Sekiro:?]  [sekiroGroup:gz_demo][clientId:d30ad3d1-3eda-54ad-c2d9-a5bf17f4f96c][action:get_tt] forward invoke seq:2 request:{"action":"get_tt","group":"gz_demo"}
+[2022-07-12 16:34:46,278 [group-thread-gz_demo]  INFO Sekiro:?]  [sekiroGroup:gz_demo][clientId:f28e82bd-d77c-a9bc-f5cd-2e102791185e] forward invoke :{"action":"get_tt","group":"gz_demo"} to client:f28e82bd-d77c-a9bc-f5cd-2e102791185e
+[2022-07-12 16:34:46,278 [sekiro-worker-3-4]  INFO Sekiro:?]  [sekiroGroup:gz_demo][clientId:f28e82bd-d77c-a9bc-f5cd-2e102791185e][action:get_tt] forward invoke seq:3 request:{"action":"get_tt","group":"gz_demo"}
+[2022-07-12 17:34:33,867 [group-thread-gz_demo]  INFO Sekiro:?]  [sekiroGroup:gz_demo][clientId:7b2be190-c84b-b39e-924f-762ebc95b143] forward invoke :{"action":"get_tt","group":"gz_demo"} to client:7b2be190-c84b-b39e-924f-762ebc95b143
+[2022-07-12 17:34:33,867 [sekiro-worker-3-3]  INFO Sekiro:?]  [sekiroGroup:gz_demo][clientId:7b2be190-c84b-b39e-924f-762ebc95b143][action:get_tt] forward invoke seq:3 request:{"action":"get_tt","group":"gz_demo"}
+[2022-07-12 17:34:37,326 [group-thread-gz_demo]  INFO Sekiro:?]  [sekiroGroup:gz_demo][clientId:786e9f1b-875e-c286-62a5-c31b3484559a] forward invoke :{"action":"get_tt","group":"gz_demo"} to client:786e9f1b-875e-c286-62a5-c31b3484559a
+[2022-07-12 17:34:37,326 [sekiro-worker-3-2]  INFO Sekiro:?]  [sekiroGroup:gz_demo][clientId:786e9f1b-875e-c286-62a5-c31b3484559a][action:get_tt] forward invoke seq:3 request:{"action":"get_tt","group":"gz_demo"}
+[2022-07-12 17:34:44,020 [group-thread-gz_demo]  INFO Sekiro:?]  [sekiroGroup:gz_demo][clientId:d30ad3d1-3eda-54ad-c2d9-a5bf17f4f96c] client disconnect
+[2022-07-12 17:34:44,021 [group-thread-gz_demo]  INFO Sekiro:?]  [sekiroGroup:gz_demo][clientId:f28e82bd-d77c-a9bc-f5cd-2e102791185e] client disconnect
+[2022-07-12 17:34:44,021 [group-thread-gz_demo]  INFO Sekiro:?]  [sekiroGroup:gz_demo][clientId:7b2be190-c84b-b39e-924f-762ebc95b143] client disconnect
+[2022-07-12 17:34:44,025 [group-thread-gz_demo]  INFO Sekiro:?]  [sekiroGroup:gz_demo][clientId:786e9f1b-875e-c286-62a5-c31b3484559a] client disconnect
+[2022-07-12 17:34:46,480 [sekiro-worker-3-12]  INFO Sekiro:?]  [sekiroGroup:gz_demo][clientId:acf89a1a-03dc-6075-b3b6-693d8ae31dd2] client register
+[2022-07-12 17:34:46,494 [sekiro-worker-3-13]  INFO Sekiro:?]  [sekiroGroup:gz_demo][clientId:ac2c3ded-c2d5-17b7-84d2-ca1564f3358d] client register
+[2022-07-12 17:34:46,508 [sekiro-worker-3-14]  INFO Sekiro:?]  [sekiroGroup:gz_demo][clientId:0106635e-a6fd-21d2-cf4e-ce316f71dda6] client register
+[2022-07-12 17:34:46,522 [sekiro-worker-3-15]  INFO Sekiro:?]  [sekiroGroup:gz_demo][clientId:85495c2b-e75d-8a25-526b-9e14644cf38b] client register
+[2022-07-12 17:34:47,069 [group-thread-gz_demo]  INFO Sekiro:?]  [sekiroGroup:gz_demo][clientId:85495c2b-e75d-8a25-526b-9e14644cf38b] forward invoke :{"action":"get_tt","group":"gz_demo"} to client:85495c2b-e75d-8a25-526b-9e14644cf38b
+[2022-07-12 17:34:47,070 [sekiro-worker-3-15]  INFO Sekiro:?]  [sekiroGroup:gz_demo][clientId:85495c2b-e75d-8a25-526b-9e14644cf38b][action:get_tt] forward invoke seq:2 request:{"action":"get_tt","group":"gz_demo"}
+[2022-07-12 17:35:02,579 [group-thread-gz_demo]  INFO Sekiro:?]  [sekiroGroup:gz_demo][clientId:0106635e-a6fd-21d2-cf4e-ce316f71dda6] forward invoke :{"action":"get_tt","group":"gz_demo"} to client:0106635e-a6fd-21d2-cf4e-ce316f71dda6
+[2022-07-12 17:35:02,579 [sekiro-worker-3-14]  INFO Sekiro:?]  [sekiroGroup:gz_demo][clientId:0106635e-a6fd-21d2-cf4e-ce316f71dda6][action:get_tt] forward invoke seq:2 request:{"action":"get_tt","group":"gz_demo"}
+[2022-07-12 17:35:56,369 [group-thread-gz_demo]  INFO Sekiro:?]  [sekiroGroup:gz_demo][clientId:ac2c3ded-c2d5-17b7-84d2-ca1564f3358d] forward invoke :{"action":"get_tt","group":"gz_demo"} to client:ac2c3ded-c2d5-17b7-84d2-ca1564f3358d
+[2022-07-12 17:35:56,369 [sekiro-worker-3-13]  INFO Sekiro:?]  [sekiroGroup:gz_demo][clientId:ac2c3ded-c2d5-17b7-84d2-ca1564f3358d][action:get_tt] forward invoke seq:2 request:{"action":"get_tt","group":"gz_demo"}
+[2022-07-12 17:36:03,394 [group-thread-gz_demo]  INFO Sekiro:?]  [sekiroGroup:gz_demo][clientId:acf89a1a-03dc-6075-b3b6-693d8ae31dd2] forward invoke :{"action":"get_tt","group":"gz_demo"} to client:acf89a1a-03dc-6075-b3b6-693d8ae31dd2
+[2022-07-12 17:36:03,394 [sekiro-worker-3-12]  INFO Sekiro:?]  [sekiroGroup:gz_demo][clientId:acf89a1a-03dc-6075-b3b6-693d8ae31dd2][action:get_tt] forward invoke seq:2 request:{"action":"get_tt","group":"gz_demo"}
+[2022-07-12 17:36:40,914 [group-thread-gz_demo]  INFO Sekiro:?]  [sekiroGroup:gz_demo][clientId:85495c2b-e75d-8a25-526b-9e14644cf38b] client disconnect
+[2022-07-12 17:36:40,914 [group-thread-gz_demo]  INFO Sekiro:?]  [sekiroGroup:gz_demo][clientId:acf89a1a-03dc-6075-b3b6-693d8ae31dd2] client disconnect
+[2022-07-12 17:36:40,914 [group-thread-gz_demo]  INFO Sekiro:?]  [sekiroGroup:gz_demo][clientId:0106635e-a6fd-21d2-cf4e-ce316f71dda6] client disconnect
+[2022-07-12 17:36:40,914 [group-thread-gz_demo]  INFO Sekiro:?]  [sekiroGroup:gz_demo][clientId:ac2c3ded-c2d5-17b7-84d2-ca1564f3358d] client disconnect

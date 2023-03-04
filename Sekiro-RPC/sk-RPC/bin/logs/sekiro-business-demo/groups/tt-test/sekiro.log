@@ -1,0 +1,31 @@
+[2022-07-09 01:42:07,587 [sekiro-worker-3-35]  INFO Sekiro:?]  [sekiroGroup:tt-test][clientId:bcfd3bc6-8801-f563-9d53-a229c503ed98] client register
+[2022-07-09 01:42:56,144 [group-thread-tt-test]  INFO Sekiro:?]  [sekiroGroup:tt-test][clientId:bcfd3bc6-8801-f563-9d53-a229c503ed98] client disconnect
+[2022-07-09 01:42:56,590 [sekiro-worker-3-36]  INFO Sekiro:?]  [sekiroGroup:tt-test][clientId:ffcad9ae-3e7b-aa14-61ea-200199db1f02] client register
+[2022-07-09 01:45:37,649 [group-thread-tt-test]  INFO Sekiro:?]  [sekiroGroup:tt-test][clientId:ffcad9ae-3e7b-aa14-61ea-200199db1f02] client disconnect
+[2022-07-09 01:45:40,640 [sekiro-worker-3-1]  INFO Sekiro:?]  [sekiroGroup:tt-test][clientId:18228808-2e91-fc3d-0b97-5f7f6253fef9] client register
+[2022-07-09 01:47:05,318 [group-thread-tt-test]  INFO Sekiro:?]  [sekiroGroup:tt-test][clientId:18228808-2e91-fc3d-0b97-5f7f6253fef9] client disconnect
+[2022-07-09 01:49:20,812 [sekiro-worker-3-6]  INFO Sekiro:?]  [sekiroGroup:tt-test][clientId:a509c6c9-33df-b5d8-8e23-010d19192cb7] client register
+[2022-07-09 01:49:32,345 [group-thread-tt-test]  INFO Sekiro:?]  [sekiroGroup:tt-test][clientId:a509c6c9-33df-b5d8-8e23-010d19192cb7] client disconnect
+[2022-07-09 01:49:33,083 [sekiro-worker-3-10]  INFO Sekiro:?]  [sekiroGroup:tt-test][clientId:b1519415-0ffd-3fd0-1b4d-538b5774f2f9] client register
+[2022-07-09 01:50:27,333 [group-thread-tt-test]  INFO Sekiro:?]  [sekiroGroup:tt-test][clientId:b1519415-0ffd-3fd0-1b4d-538b5774f2f9] client disconnect
+[2022-07-09 01:50:27,940 [sekiro-worker-3-15]  INFO Sekiro:?]  [sekiroGroup:tt-test][clientId:21a5ef50-00c6-7f75-a309-c1cdbba121b1] client register
+[2022-07-09 01:51:56,412 [group-thread-tt-test]  INFO Sekiro:?]  [sekiroGroup:tt-test][clientId:21a5ef50-00c6-7f75-a309-c1cdbba121b1] client disconnect
+[2022-07-09 01:51:57,887 [sekiro-worker-3-19]  INFO Sekiro:?]  [sekiroGroup:tt-test][clientId:5c2dbe6a-6630-fb07-b8e6-949f5d9dd74d] client register
+[2022-07-09 01:52:53,170 [group-thread-tt-test]  INFO Sekiro:?]  [sekiroGroup:tt-test][clientId:5c2dbe6a-6630-fb07-b8e6-949f5d9dd74d] client disconnect
+[2022-07-09 01:52:53,823 [sekiro-worker-3-20]  INFO Sekiro:?]  [sekiroGroup:tt-test][clientId:f5e426dc-8400-25ad-4814-0331ac34bbc6] client register
+[2022-07-09 01:55:06,447 [group-thread-tt-test]  INFO Sekiro:?]  [sekiroGroup:tt-test][clientId:f5e426dc-8400-25ad-4814-0331ac34bbc6] client disconnect
+[2022-07-09 01:55:07,227 [sekiro-worker-3-24]  INFO Sekiro:?]  [sekiroGroup:tt-test][clientId:45c69706-7100-03a1-e28a-77a585b4de04] client register
+[2022-07-09 01:56:05,251 [group-thread-tt-test]  INFO Sekiro:?]  [sekiroGroup:tt-test][clientId:45c69706-7100-03a1-e28a-77a585b4de04] client disconnect
+[2022-07-09 13:28:12,734 [sekiro-worker-3-14]  INFO Sekiro:?]  [sekiroGroup:tt-test][clientId:7939cbd8-a143-48d8-6108-b73673d51d70] client register
+[2022-07-09 13:28:20,841 [group-thread-tt-test]  INFO Sekiro:?]  [sekiroGroup:tt-test][clientId:7939cbd8-a143-48d8-6108-b73673d51d70] client disconnect
+[2022-07-09 13:28:21,644 [sekiro-worker-3-18]  INFO Sekiro:?]  [sekiroGroup:tt-test][clientId:f990d370-dffa-c084-12b4-41c1718b61da] client register
+[2022-07-09 13:28:54,243 [group-thread-tt-test]  INFO Sekiro:?]  [sekiroGroup:tt-test][clientId:f990d370-dffa-c084-12b4-41c1718b61da] client disconnect
+[2022-07-09 13:29:14,683 [sekiro-worker-3-22]  INFO Sekiro:?]  [sekiroGroup:tt-test][clientId:757d56de-0ce0-3c2f-44a3-d858d29b24b3] client register
+[2022-07-09 13:29:22,869 [group-thread-tt-test]  INFO Sekiro:?]  [sekiroGroup:tt-test][clientId:757d56de-0ce0-3c2f-44a3-d858d29b24b3] client disconnect
+[2022-07-09 13:29:23,372 [sekiro-worker-3-23]  INFO Sekiro:?]  [sekiroGroup:tt-test][clientId:1d7ccf42-ac2f-25fe-0ae0-cb86856bb3f4] client register
+[2022-07-09 13:30:22,998 [group-thread-tt-test]  INFO Sekiro:?]  [sekiroGroup:tt-test][clientId:1d7ccf42-ac2f-25fe-0ae0-cb86856bb3f4] forward invoke :{"action":"toutiao","app_name":"toutiao_web","count":"20","group":"tt-test","group_id":"7117939354978550279","item_id":"7117939354978550279","offset":"0","url":"https://www.toutiao.com/article/v2/tab_comments/?aid=24"} to client:1d7ccf42-ac2f-25fe-0ae0-cb86856bb3f4
+[2022-07-09 13:30:22,998 [sekiro-worker-3-23]  INFO Sekiro:?]  [sekiroGroup:tt-test][clientId:1d7ccf42-ac2f-25fe-0ae0-cb86856bb3f4][action:toutiao] forward invoke seq:2 request:{"action":"toutiao","app_name":"toutiao_web","count":"20","group":"tt-test","group_id":"7117939354978550279","item_id":"7117939354978550279","offset":"0","url":"https://www.toutiao.com/article/v2/tab_comments/?aid=24"}
+[2022-07-09 13:31:07,144 [group-thread-tt-test]  INFO Sekiro:?]  [sekiroGroup:tt-test][clientId:1d7ccf42-ac2f-25fe-0ae0-cb86856bb3f4] forward invoke :{"action":"toutiao","app_name":"toutiao_web","count":"20","group":"tt-test","group_id":"7117939354978550279","item_id":"7117939354978550279","offset":"0","url":"https://www.toutiao.com/article/v2/tab_comments/?aid=24"} to client:1d7ccf42-ac2f-25fe-0ae0-cb86856bb3f4
+[2022-07-09 13:31:07,144 [sekiro-worker-3-23]  INFO Sekiro:?]  [sekiroGroup:tt-test][clientId:1d7ccf42-ac2f-25fe-0ae0-cb86856bb3f4][action:toutiao] forward invoke seq:3 request:{"action":"toutiao","app_name":"toutiao_web","count":"20","group":"tt-test","group_id":"7117939354978550279","item_id":"7117939354978550279","offset":"0","url":"https://www.toutiao.com/article/v2/tab_comments/?aid=24"}
+[2022-07-09 13:31:12,716 [group-thread-tt-test]  INFO Sekiro:?]  [sekiroGroup:tt-test][clientId:1d7ccf42-ac2f-25fe-0ae0-cb86856bb3f4] client disconnect
+[2022-07-09 13:31:16,651 [group-thread-tt-test]  WARN Sekiro:?]  [sekiroGroup:tt-test][clientId:group:tt-test:system-fake] pool queue empty

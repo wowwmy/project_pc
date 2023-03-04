@@ -1,0 +1,4 @@
+[2022-05-10 14:11:07,251 [sekiro-worker-3-31]  INFO Sekiro:?]  [sekiroGroup:rs5][clientId:3d6c2ca9-8cf1-afff-0d7f-e4140dd24203] client register
+[2022-05-10 14:11:21,976 [group-thread-rs5]  INFO Sekiro:?]  [sekiroGroup:rs5][clientId:3d6c2ca9-8cf1-afff-0d7f-e4140dd24203] forward invoke :{"action":"xl","group":"rs5","url":"/Search/SearchList"} to client:3d6c2ca9-8cf1-afff-0d7f-e4140dd24203
+[2022-05-10 14:11:21,977 [sekiro-worker-3-31]  INFO Sekiro:?]  [sekiroGroup:rs5][clientId:3d6c2ca9-8cf1-afff-0d7f-e4140dd24203][action:xl] forward invoke seq:2 request:{"action":"xl","group":"rs5","url":"/Search/SearchList"}
+[2022-05-10 14:13:47,890 [group-thread-rs5]  INFO Sekiro:?]  [sekiroGroup:rs5][clientId:3d6c2ca9-8cf1-afff-0d7f-e4140dd24203] client disconnect

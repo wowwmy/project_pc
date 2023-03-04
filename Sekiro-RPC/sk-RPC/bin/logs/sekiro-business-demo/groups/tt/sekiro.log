@@ -1,0 +1,51 @@
+[2022-07-09 00:51:49,917 [group-thread-tt]  WARN Sekiro:?]  [sekiroGroup:tt][clientId:group:tt:system-fake] pool queue empty
+[2022-07-09 00:52:03,401 [group-thread-tt]  WARN Sekiro:?]  [sekiroGroup:tt][clientId:group:tt:system-fake] pool queue empty
+[2022-07-09 00:54:22,076 [sekiro-worker-3-14]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:12e12f5b-7453-4f55-5818-70a177267698] client register
+[2022-07-09 00:54:22,091 [sekiro-worker-3-15]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:207605f8-fbfa-2443-3c5a-6b7fc5cc1c2d] client register
+[2022-07-09 00:54:22,108 [sekiro-worker-3-16]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:5856f51a-97ff-230a-4db8-59112d42f2a4] client register
+[2022-07-09 00:54:22,187 [sekiro-worker-3-17]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:6fb7a645-9e26-8339-3346-980122c19305] client register
+[2022-07-09 00:54:22,406 [sekiro-worker-3-18]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:cd71b324-8d8b-f4b1-9b41-c730a1571191] client register
+[2022-07-09 00:54:25,902 [sekiro-worker-3-19]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:9aad2ac6-4d94-c6f3-d04c-930af3483d3c] client register
+[2022-07-09 00:54:32,738 [group-thread-tt]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:9aad2ac6-4d94-c6f3-d04c-930af3483d3c] forward invoke :{"action":"gt","app_name":"toutiao_web","count":"20","group":"tt","group_id":"7117939354978550279","item_id":"7117939354978550279","offset":"0","url":"https://www.toutiao.com/article/v2/tab_comments/?aid=24"} to client:9aad2ac6-4d94-c6f3-d04c-930af3483d3c
+[2022-07-09 00:54:32,738 [sekiro-worker-3-19]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:9aad2ac6-4d94-c6f3-d04c-930af3483d3c][action:gt] forward invoke seq:2 request:{"action":"gt","app_name":"toutiao_web","count":"20","group":"tt","group_id":"7117939354978550279","item_id":"7117939354978550279","offset":"0","url":"https://www.toutiao.com/article/v2/tab_comments/?aid=24"}
+[2022-07-09 00:56:39,789 [group-thread-tt]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:9aad2ac6-4d94-c6f3-d04c-930af3483d3c] client disconnect
+[2022-07-09 00:56:39,789 [group-thread-tt]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:12e12f5b-7453-4f55-5818-70a177267698] client disconnect
+[2022-07-09 00:56:39,789 [group-thread-tt]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:207605f8-fbfa-2443-3c5a-6b7fc5cc1c2d] client disconnect
+[2022-07-09 00:56:39,789 [group-thread-tt]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:5856f51a-97ff-230a-4db8-59112d42f2a4] client disconnect
+[2022-07-09 00:56:39,790 [group-thread-tt]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:6fb7a645-9e26-8339-3346-980122c19305] client disconnect
+[2022-07-09 00:56:39,790 [group-thread-tt]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:cd71b324-8d8b-f4b1-9b41-c730a1571191] client disconnect
+[2022-07-09 00:56:41,473 [sekiro-worker-3-21]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:a39f03f1-b2e5-3c20-0547-91950b4074b3] client register
+[2022-07-09 00:56:41,488 [sekiro-worker-3-22]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:9523a0cd-285e-5082-0fbb-ad0f8ce92edb] client register
+[2022-07-09 00:56:41,501 [sekiro-worker-3-23]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:4c1318dc-e4cf-d5a3-41cd-621b93e60bf7] client register
+[2022-07-09 00:56:41,548 [sekiro-worker-3-24]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:3ba2be92-047b-5d79-157b-64dbcd121b17] client register
+[2022-07-09 00:56:41,818 [sekiro-worker-3-25]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:da490a8b-04fa-903c-fbe4-44e1fe179d73] client register
+[2022-07-09 00:57:17,104 [sekiro-worker-3-1]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:da490a8b-04fa-903c-fbe4-44e1fe179d73] client register
+[2022-07-09 00:57:17,104 [sekiro-worker-3-2]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:9523a0cd-285e-5082-0fbb-ad0f8ce92edb] client register
+[2022-07-09 00:57:17,126 [sekiro-worker-3-3]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:4c1318dc-e4cf-d5a3-41cd-621b93e60bf7] client register
+[2022-07-09 00:57:17,139 [sekiro-worker-3-4]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:a39f03f1-b2e5-3c20-0547-91950b4074b3] client register
+[2022-07-09 00:57:17,155 [sekiro-worker-3-5]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:3ba2be92-047b-5d79-157b-64dbcd121b17] client register
+[2022-07-09 00:57:20,548 [group-thread-tt]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:a39f03f1-b2e5-3c20-0547-91950b4074b3] client disconnect
+[2022-07-09 00:57:20,549 [group-thread-tt]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:3ba2be92-047b-5d79-157b-64dbcd121b17] client disconnect
+[2022-07-09 00:57:20,549 [group-thread-tt]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:4c1318dc-e4cf-d5a3-41cd-621b93e60bf7] client disconnect
+[2022-07-09 00:57:20,549 [group-thread-tt]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:9523a0cd-285e-5082-0fbb-ad0f8ce92edb] client disconnect
+[2022-07-09 00:57:20,549 [group-thread-tt]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:da490a8b-04fa-903c-fbe4-44e1fe179d73] client disconnect
+[2022-07-09 00:57:22,054 [sekiro-worker-3-6]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:e1d26f7c-6ae3-a248-3a1c-5984b7d52513] client register
+[2022-07-09 00:57:22,085 [sekiro-worker-3-7]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:ba601234-c27e-6d3d-bc10-f43b0bc1f63d] client register
+[2022-07-09 00:57:22,099 [sekiro-worker-3-8]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:b15095c1-9048-0f47-cf5a-d6faccdf9618] client register
+[2022-07-09 00:57:22,210 [sekiro-worker-3-9]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:78e0daef-bac5-485f-4b6d-1c381eff4a45] client register
+[2022-07-09 00:57:22,430 [sekiro-worker-3-10]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:a339ac38-595e-c39b-2b13-0ac269ec373a] client register
+[2022-07-09 01:00:02,440 [group-thread-tt]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:ba601234-c27e-6d3d-bc10-f43b0bc1f63d] client disconnect
+[2022-07-09 01:00:02,441 [group-thread-tt]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:78e0daef-bac5-485f-4b6d-1c381eff4a45] client disconnect
+[2022-07-09 01:00:02,441 [group-thread-tt]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:e1d26f7c-6ae3-a248-3a1c-5984b7d52513] client disconnect
+[2022-07-09 01:00:02,441 [group-thread-tt]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:a339ac38-595e-c39b-2b13-0ac269ec373a] client disconnect
+[2022-07-09 01:00:02,441 [group-thread-tt]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:b15095c1-9048-0f47-cf5a-d6faccdf9618] client disconnect
+[2022-07-09 01:00:04,053 [sekiro-worker-3-11]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:05381c4a-64e2-4fb3-4795-ba39b3986714] client register
+[2022-07-09 01:00:04,070 [sekiro-worker-3-12]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:27200643-74f8-ad22-bdde-c61709af8ba4] client register
+[2022-07-09 01:00:04,088 [sekiro-worker-3-13]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:7ccbb6b4-a441-a5cf-78f9-02551ea29e8b] client register
+[2022-07-09 01:00:04,158 [sekiro-worker-3-14]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:1b82f8bc-3306-6070-729d-cabd3fb04d6b] client register
+[2022-07-09 01:00:04,568 [sekiro-worker-3-15]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:3d2988d3-f828-80b3-18c2-31077067dc9b] client register
+[2022-07-09 01:02:21,936 [group-thread-tt]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:05381c4a-64e2-4fb3-4795-ba39b3986714] client disconnect
+[2022-07-09 01:02:21,936 [group-thread-tt]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:3d2988d3-f828-80b3-18c2-31077067dc9b] client disconnect
+[2022-07-09 01:02:21,936 [group-thread-tt]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:1b82f8bc-3306-6070-729d-cabd3fb04d6b] client disconnect
+[2022-07-09 01:02:21,937 [group-thread-tt]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:7ccbb6b4-a441-a5cf-78f9-02551ea29e8b] client disconnect
+[2022-07-09 01:02:21,938 [group-thread-tt]  INFO Sekiro:?]  [sekiroGroup:tt][clientId:27200643-74f8-ad22-bdde-c61709af8ba4] client disconnect
