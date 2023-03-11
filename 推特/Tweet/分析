@@ -1,0 +1,23 @@
+test.py(最近850条左右)
+    authorization   固定值
+
+    guest_token     首页  https://api.twitter.com/1.1/guest/activate.json 返回
+                    或 首页 html 返回
+
+
+
+
+    推文分析
+    ['content']['entryType']['tweet_results']['result']['legacy']['retweeted_status_result']
+        自己写的 不存在属性 retweeted_status_result  如果是转发(不存在这个属性count)或者是本来就没有返回浏览量的
+        转发的 存在属性 retweeted_status_result
+
+    推文是否为最后
+        不存在属性   ['errors']  接口返回有数据也不一定存在这个属性
+        或 entries 长度为 2
+
+========================================================================
+alltext.py(全部推文)
+    存在一定时间内限制访问次数(同一ip,即使是单线程也需要控制速度)
+    请求接口协议为 http2.0 requests 只能请求 1版本
+                    使用 httpx 请求
