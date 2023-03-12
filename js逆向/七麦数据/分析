@@ -1,0 +1,15 @@
+a = (a += v + t[Jt][T](t[Mt], _)) + (v + r) + (v + 3)
+'@#/rank/indexPlus/brand_id/1@#17388487975@#3'
+t[Jt][T](t[Mt], _) = url地址
+v = @#
+r = +new Date - (s || 0) - 1661224081041
+---
+s = -(0,i[Wt])('syncd')   ---> cookie中的syncd属性
+
+syncd 属性来源于 第一次请求 https://www.qimai.cn/rank 返回的 cookie synct属性
+syncd = synct * 1000 - new Date
+
+
+---------------------------------------------------------------加密(b64,对字符串进行了处理)
+e = (0,i[jt])((0,i[qt])(a, d))
+'dkJNEQUWElVcX1MGHDFVQxJNARYZFx5qWFNMVSEaGRMDDQ9XEBRRVE8zCBRKGQMQAgocJhNRHgY='
