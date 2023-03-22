@@ -4,6 +4,7 @@ import threading
 import logging
 import time, random
 import openpyxl
+from tqdm import tqdm
 
 
 class Disease:
@@ -92,7 +93,7 @@ class Disease:
         # 总页数
         try:
             pages = spans[-2].xpath('./a/text()')[0]
-            for page in range(1, int(pages) + 1):
+            for page in tqdm(range(1, int(pages) + 1), desc=name, position=0,ncols=100,colour='blue'):
                 url = f'https://jbk.39.net/bw/{kind}_t1_p{page}'
                 self.details(url, ws)
         except IndexError:
