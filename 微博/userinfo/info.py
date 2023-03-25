@@ -62,7 +62,8 @@ class Info:
             if res.status_code == 200:
                 try:
                     html = etree.HTML(res.text)
-                    a = html.xpath('//div[@class="m-wrap"]/div[1]/div[1]/div[1]//div[@class="info"]/div/a[1]')[
+                    a = html.xpath(
+                        '//div[@class="m-wrap"]/div[1]/div[1]/div[1]//div[@class="info"]/div/a[1] | //div[@class="card-wrap "][1]//div[@class="info"]/div/a[1]')[
                         0]  # 获取搜索昵称的a标签
                     h_name = a.xpath('./text()')[0]
                     if h_name == name:
