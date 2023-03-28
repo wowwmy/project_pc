@@ -1,0 +1,14 @@
+目标地址:https://car.autohome.com.cn/config/series/5769.html
+
+有3套字体js,对应三个返回的值,都在html页面
+
+keyLink  ----》hs_kw32_baike 等 后面有两位随机变
+config   ----》hs_kw32_config 等 后面有两位随机变
+option   ----》hs_kw11_option 等 后面有两位随机变
+
+可以直接将对用的js拿出来,补document环境(直接使用 jsdom 补即可),然后新建一个全局数组,在生成值处将值放进数组
+
+难点:
+    每一个页面的js得出的结果-->字体列表是不一样的
+解决:
+    提取每一个页面的字体js,对其补对应的参数,写一个导出函数执行,用来获取每一个页面的字体列表
