@@ -1,0 +1,7 @@
+网址:
+https://www.xiaohongshu.com/user/profile/61ac48c600000000210200fe
+
+接口
+https://edith.xiaohongshu.com/api/sns/web/v1/user_posted
+
+需要将登录后的cookie复制到 request方法里面的headers属性的cookie中
