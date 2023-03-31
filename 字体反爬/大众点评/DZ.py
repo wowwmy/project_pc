@@ -18,7 +18,7 @@ class DZDP:
     "Accept-Language": "zh-CN,zh;q=0.9",
     "Cache-Control": "no-cache",
     "Connection": "keep-alive",
-    "Cookie": "s_ViewType=10; _lxsdk_cuid=181e22c8eb8c8-086ec3bd373e0f-26021a51-144000-181e22c8eb8c8; _lxsdk=181e22c8eb8c8-086ec3bd373e0f-26021a51-144000-181e22c8eb8c8; _hc.v=c174b137-0274-9e22-5f2d-567672e7fdaf.1657356980; WEBDFPID=24x51x1x8w4x50y1z63x838164z152x5816y42zz18y979586y68v9y2-1980557057446-1665197057117KMKOAKQfd79fef3d01d5e9aadc18ccd4d0c95072876; ctu=d5d70d6840d6541e801ed6c702ec26c57559be5ad80a3f3dd12cff156245a945; cy=58; cye=anshan; ua=dpuser_6393149767; Hm_lvt_602b80cf8079ae6591966cc70a3940e7=1666421660,1666425161,1666510090,1667564607; dplet=5a5948a71951b8f3909e754f15167b68; dper=4cbaf8aab2a1ecd097f277d5e7cc5f35f0657c2e7502c0f587d905d196582feea7fe5e2280c1b4fa0ca12730f0a6489587ea48e22162f2b998ca3bfa42ae4ee55d9ade0f322a5fefb2081ac5a80f2aaa0c31df19b0a878f2d776d2dfcb187960; ll=7fd06e815b796be3df069dec7836c3df; Hm_lpvt_602b80cf8079ae6591966cc70a3940e7=1667569342; _lxsdk_s=18442dd35a9-c06-ee2-b91%7C%7C1484",
+    "Cookie": "",   # 需要登录后的cookie
     "Host": "www.dianping.com",
     "Pragma": "no-cache",
     "Referer": "https://www.dianping.com/shop/EzgJJU7ShvUKQwiB/review_all/p261",
